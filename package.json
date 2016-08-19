@@ -1,0 +1,23 @@
+{
+  "name": "hubot-houseparty",
+  "version": "1.0.0",
+  "description": ":balloon: hubot house party plugin",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagasu/hubot-houseparty.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": "Mateusz Kopij <sagasu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagasu/hubot-houseparty/issues"
+  },
+  "homepage": "https://github.com/sagasu/hubot-houseparty#readme"
+}
